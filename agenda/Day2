@@ -1,0 +1,8 @@
+Summary of the day.
+
+Task:
+* Create an empty console app
+* Create User model
+* Create Request / Response model
+* HttpClient Class - Provides a class for sending HTTP requests and receiving HTTP responses from a resource identified by a URI.
+* GET all users
