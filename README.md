@@ -35,3 +35,4 @@ https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.ht
 
 ## Http - properties of the request methods.
 ![Screenshot 2023-02-26 095907](https://user-images.githubusercontent.com/125467207/221399054-188f23c5-ad96-4fca-9a42-fe73dbe3ce6c.png)
+
