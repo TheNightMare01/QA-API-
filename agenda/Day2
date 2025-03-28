@@ -1,8 +1,9 @@
 Summary of the day.
 
 Task:
-* Create an empty console app
-* Create User model
+* Create an empty Nunit Test Project
+* HttpClient Class - Provides a class for sending HTTP requests and receiving HTTP responses from a resource identified by a URI.   
+** Create a basic structure - initialize the HttpClient in the preconditions and dispose of it in the after method.
+* GET all users. - Assert the status code
+* Create User model -> POCO and prepare for deserialization.
 * Create Request / Response model
-* HttpClient Class - Provides a class for sending HTTP requests and receiving HTTP responses from a resource identified by a URI.
-* GET all users
