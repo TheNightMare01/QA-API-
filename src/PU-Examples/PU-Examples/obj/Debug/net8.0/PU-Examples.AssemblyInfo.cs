@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PU-Examples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63c24097d6fe2f36042c14c860a662aec8acf554")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+307dbe44f643338256323c7694a73d575f1d8a11")]
 [assembly: System.Reflection.AssemblyProductAttribute("PU-Examples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PU-Examples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
