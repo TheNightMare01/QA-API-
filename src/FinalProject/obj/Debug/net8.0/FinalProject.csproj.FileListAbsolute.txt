@@ -114,3 +114,15 @@ C:\repos\PU-testautomation\src\FinalProject\obj\Debug\net8.0\FinalProject.genrun
 C:\repos\PU-testautomation\src\FinalProject\obj\Debug\net8.0\ref\FinalProject.dll
 C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\config.json
+C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\FluentAssertions.dll
+C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\repos\PU-testautomation\src\FinalProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

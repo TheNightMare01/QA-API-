@@ -1,4 +1,5 @@
 ﻿using FinalProject.Framework.Models;
+using FluentAssertions;
 using Newtonsoft.Json;
 
 namespace FinalProject.Tests
@@ -10,8 +11,15 @@ namespace FinalProject.Tests
         public async Task GetUsers()
         {
             var response = await Client.GetAsync("users");
+
+            //Example fluentassertion
+            response.StatusCode.ToString().Should().Be("OK");
+
             string responseData = await response.Content.ReadAsStringAsync();
             var users = JsonConvert.DeserializeObject<List<UserResponse>>(responseData);
+
+            users.Should().NotBeNull();
+            users.Count().Should().Be(10);
         }
     }
 }
