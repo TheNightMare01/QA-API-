@@ -1,7 +1,7 @@
 # API Automation testing with .NET
 
 ## Project's folder structure
-* agenda - summary of each day.    
+* agenda - summary of each day    
 * postman - collection of the requests and environment variables. Update the Bearer token.   
 * src   
    * examples - collection of examples of the base tests
